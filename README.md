@@ -1,26 +1,14 @@
-# 👋 Hi, I'm Anita Eimiakhena, CAPM®
+## Hi, I’m Anita 👋
 
-Business & Data Analyst with 5+ years of experience delivering analytics, automation, and process improvement across energy, technology, and consulting environments.
+This GitHub hosts selected **SQL, Python, Power BI, Tableau, Excel etc.. projects** that support the experience listed on my resume and LinkedIn.
 
-I use **SQL, Python, Power BI, and Excel** to turn complex data into clear, actionable insights for stakeholders and distributed teams.
-
----
-
-## 🔧 Core Skills & Tools
-
-- **SQL** (CTEs, Window Functions, Query Optimization)
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- **Power BI** (DAX, Power Query, RLS, Apps, Dashboards)
-- **Excel** (Power Pivot, Power Query, Advanced Dashboards)
-- **Automation** (Power Automate)
-- **Business Analysis** (BPMN, SOPs, UAT, Requirements Gathering)
-
----
+👉 If you’re reviewing my profile from my resume or LinkedIn, start with the **pinned repositories below**.  
+Each project includes a clear problem statement, approach, and outcome.  
 
 ## 📊 Featured Projects
 
 > Full project details, datasets, and documentation are available in the linked repositories.  
-> Some large datasets and deliverables are hosted on **Google Drive** and linked within each project.
+> Video walkthroughs are hosted on **Google Drive** and linked within each project.
 
 - **📈 Power BI Executive Dashboards**
   - End-to-end BI solutions with drill-throughs, RLS, scheduled refreshes, and automated alerts.
@@ -41,15 +29,6 @@ I use **SQL, Python, Power BI, and Excel** to turn complex data into clear, acti
 
 ---
 
-## 🧠 What I Focus On
-
-- Building **practical, business-ready analytics**
-- Automating repetitive workflows
-- Creating dashboards that decision-makers actually use
-- Translating business problems into technical solutions
-
----
-
 ## 🔗 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/anita-eimi/
@@ -59,4 +38,3 @@ I use **SQL, Python, Power BI, and Excel** to turn complex data into clear, acti
 
 ---
 
-⭐ If you’re reviewing my profile from my resume, start with the pinned projects below.
