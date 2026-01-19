@@ -3,7 +3,9 @@
 This GitHub hosts selected **SQL, Python, Power BI, Tableau, Excel etc.. projects** that support the experience listed on my resume and LinkedIn.
 
 Reviewing my profile from my resume or LinkedIn ?
+
 👉 Video demonstartions of all projects : 
+
 👉 SQL and Python source codes located in pinned repositories
 
 
