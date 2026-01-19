@@ -4,7 +4,7 @@ This GitHub hosts selected **SQL, Python, Power BI, Tableau, Excel etc.. project
 
 Reviewing my profile from my resume or LinkedIn ?
 
-👉 Video demonstartions of all projects : 
+👉 Video demonstartions of all projects : https://anitaexx.github.io/
 
 👉 SQL and Python source codes located in pinned repositories
 
@@ -12,15 +12,11 @@ Reviewing my profile from my resume or LinkedIn ?
 ## 📊 Featured Projects
 
 > Full project details, datasets, and documentation are available in the linked repositories.  
-> Video walkthroughs are hosted on **Google Drive** and linked within each project.
+> Projcets with no code offer only video walkthroughs hosted on https://anitaexx.github.io/
 
-- **📈 Power BI Executive Dashboards**
+- **🗄 SQL and 📈 Power BI Reporting**
   - End-to-end BI solutions with drill-throughs, RLS, scheduled refreshes, and automated alerts.
   - Focused on operational performance, financial reporting, and executive decision-making.
-
-- **🗄 SQL Data Integration & Reporting**
-  - SQL scripts integrating data from legacy CRMs, Salesforce, and Azure databases.
-  - Used to power enterprise-level reporting and SSRS automation.
 
 - **🐍 Python Data Analysis & Automation**
   - Data cleaning, EDA, visualization, and workflow automation using Pandas and NumPy.
@@ -28,8 +24,6 @@ Reviewing my profile from my resume or LinkedIn ?
 
 - **⚙️ Process Improvement & Automation**
   - Workflow redesigns, SOP documentation, and Power Automate solutions that reduced manual effort by up to 80%.
-
-👉 **See pinned repositories below** for detailed case studies and code.
 
 ---
 
