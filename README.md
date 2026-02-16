@@ -19,7 +19,7 @@ Reviewing my profile from my resume or LinkedIn ?
   - Loan and Investment Company Analysis (Strategy and Digital Transformation) – Extracted KPIs: Disbursement Volume, Default Rate (Write-off) %, Fraud %
 
 - **🐍 Python for Data Analysis**
-  - Sales Orders Aalystics (USA & Canada) - Extracted KPIs :
+  - Sales Orders Analysis (USA & Canada) - Extracted KPIs :
     - Includes: Data exploration, data cleaning, feature engineering, and basic predictive modeling
 
 - **🐍 Python for Automation**
