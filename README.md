@@ -17,7 +17,17 @@ Reviewing my profile from my resume or LinkedIn ?
 - **🗄 SQL and 📈 Power BI/Tableau Reporting**
   - Utility Company Analysis – Extracted KPIs: TDU Reimbursement %, Refund %, Bad Debt %
   - Loan and Investment Company Analysis (Strategy and Digital Transformation) – Extracted KPIs: Disbursement Volume, Default Rate (Write-off) %, Fraud %
-
+  
+- **📊 Microsoft Excel (Advanced Analytics & Automation)**
+  - Opeartions Analytics Project demonstrating end-to-end Excel expertise:
+      - Advanced Formulas (VLOOKUP, INDEX/MATCH)
+      - PivotTables
+      - Power Query
+      - Data modeling, Dashboards
+      - Financial analysis
+      - Data validation
+      - Process automation with VBA/macros.
+        
 - **🐍 Python for Data Analysis**
   - Sales Orders Analysis (USA & Canada) - Extracted KPIs :
     - Includes: Data exploration, data cleaning, feature engineering, and basic predictive modeling
@@ -26,20 +36,11 @@ Reviewing my profile from my resume or LinkedIn ?
   - Operations Automation Engine
       - Automated data ingestion, validation, KPI calculation, anomaly detection, and executive report generation
       - Integrated workflow notifications and audit logging
-  
-- **📊 Microsoft Excel (Advanced Analytics & Automation)**
-  - Mini project demonstrating end-to-end Excel expertise:
-      - Advanced Formulas (VLOOKUP, INDEX/MATCH)
-      - PivotTables
-      - Power Query
-      - Data modeling, Dashboards
-      - Financial analysis
-      - Data validation
-      - Process automation with VBA/macros.
-
-- **⚙️ Power Platform**
+        
+- **⚙️ Workflow Automation Platforms**
+  - Zapier Automation : 
   - Power Automate solution for a repetitive Clinical Investigation process, eliminating 80% of manual effort.
-  - Bonus : Flower App with Canavas Power Apps
+  - Flower App with Canavas Power Apps
 
 ---
 
