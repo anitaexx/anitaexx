@@ -15,8 +15,8 @@ Reviewing my profile from my resume or LinkedIn ?
 > Projcets with no code offer only video walkthroughs hosted on https://anitaexx.github.io/
 
 - **🗄 SQL and 📈 Power BI/Tableau Reporting**
-  - Utility Company Analysis – Extracted KPIs: TDU Reimbursement %, Refund %, Bad Debt %
-  - Loan and Investment Company Analysis (Strategy and Digital Transformation) – Extracted KPIs: Disbursement Volume, Default Rate (Write-off) %, Fraud %
+  - Utility Company Analysis – Extracted KPIs: TDU Reimbursement %, Refund %, Bad Debt %, etc.
+  - Loan and Investment Company Analysis (Strategy and Digital Transformation) – Extracted KPIs: Disbursement Volume, Default Rate (Write-off) %, Fraud %, etc.
   
 - **📊 Microsoft Excel (Advanced Analytics & Automation)**
   - Opeartions Analytics Project demonstrating end-to-end Excel expertise:
@@ -29,8 +29,8 @@ Reviewing my profile from my resume or LinkedIn ?
       - Process automation with VBA/macros.
         
 - **🐍 Python for Data Analysis**
-  - Sales Orders Analysis (USA & Canada) - Extracted KPIs :
-    - Includes: Data exploration, data cleaning, feature engineering, and basic predictive modeling
+  - Sales Orders Analysis (USA & Canada) - Extracted KPIs : Sales Rep Execution Rate, (Executed Vs Pipeline Revenue), Top 5 Customers By Revenue, Distrubiton of Order Total Value, etc.
+    - Includes: Data exploration, data cleaning and feature engineeringmodeling
 
 - **🐍 Python for Automation**
   - Operations Automation Engine
