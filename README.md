@@ -30,7 +30,7 @@ Reviewing my profile from my resume or LinkedIn ?
         
 - **🐍 Python for Data Analysis**
   - Sales Orders Analysis (USA & Canada) - Extracted KPIs : Sales Rep Execution Rate, (Executed Vs Pipeline Revenue), Top 5 Customers By Revenue, Distrubiton of Order Total Value, etc.
-    - Includes: Data exploration, data cleaning and feature engineeringmodeling
+    - Includes: Data exploration, data cleaning and feature engineering
 
 - **🐍 Python for Automation**
   - Operations Automation Engine
