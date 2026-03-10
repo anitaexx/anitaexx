@@ -1,6 +1,6 @@
 ## Hi, I’m Anita Emilomon👋
 
-This GitHub hosts selected **SQL, Python, BI, Tableau, Excel projects** that support the experience highlighted on my resume and LinkedIn.
+This GitHub hosts selected **SQL, Python, BI, Looker, Excel projects** that support the experience highlighted on my resume and LinkedIn.
 
 Reviewing my profile from my resume or LinkedIn ?
 
@@ -14,7 +14,7 @@ Reviewing my profile from my resume or LinkedIn ?
 > Full project details, datasets, and documentation are available in the linked repositories.  
 > Projcets with no code offer only video walkthroughs hosted on https://anitaexx.github.io/
 
-- **🗄 SQL and 📈 Power BI/Tableau Reporting**
+- **🗄 SQL and 📈 Power BI/Looker Reporting**
   - Utility Company Analysis – Extracted KPIs: TDU Reimbursement %, Refund %, Bad Debt %, etc.
   - Loan and Investment Company Analysis (Strategy and Digital Transformation) – Extracted KPIs: Disbursement Volume, Default Rate (Write-off) %, Fraud %, etc.
   
