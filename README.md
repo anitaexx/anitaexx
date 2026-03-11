@@ -1,6 +1,6 @@
 ## Hi, I’m Anita Emilomon👋
 
-This GitHub hosts selected **SQL, Python, Power BI, Looker, Excel projects** that support the experience highlighted on my resume and LinkedIn.
+This GitHub hosts selected **SQL, Python, Power BI, Looker & Excel projects** that support the experience highlighted on my resume and LinkedIn.
 
 Reviewing my profile from my resume or LinkedIn ?
 
