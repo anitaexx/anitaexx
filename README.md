@@ -31,13 +31,8 @@ Reviewing my profile from my resume or LinkedIn ?
 - **🐍 Python for Data Analysis**
   - Sales Orders Analysis (USA & Canada) - Extracted KPIs : Sales Rep Execution Rate, (Executed Vs Pipeline Revenue), Top 5 Customers By Revenue, Distrubiton of Order Total Value, etc.
     - Includes: Data exploration, data cleaning and feature engineering
-
-- **🐍 Python for Automation**
-  - Operations Automation Engine
-      - Automated data ingestion, validation, KPI calculation, anomaly detection, and executive report generation
-      - Integrated workflow notifications and audit logging
         
-- **⚙️ Workflow Automation Platforms**
+- **⚙️ Workflow Automation**
   - Zapier Automation : 
   - Power Automate solution for a repetitive Clinical Investigation process, eliminating 80% of manual effort.
   - Flower App with Canavas Power Apps
