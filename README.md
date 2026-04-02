@@ -36,8 +36,8 @@ Reviewing my profile from my resume or LinkedIn ?
     - Includes: Data exploration, data cleaning and feature engineering
         
 - **⚙️ Workflow Automation**
-  - Zapier : Built an execution system powered by Open AI, that transforms messy inputs into structured plans, tasks, and priorities in Notion
-  - Make : Built an operations system that classifies issues with Open AI, tracks execution in Airtable, and sends intelligent follow-ups on overdue work with Gmail.
+  - Zapier : Built an AI-powered execution system using OpenAI that transforms messy inputs into structured plans, tasks, and priorities in Notion.
+  - Make : Built an AI-powered operations system using OpenAI that classifies issues, tracks execution in Airtable, and sends intelligent follow-ups on overdue work via Gmail.
   - Power Automate solution for a repetitive Clinical Investigation process, eliminating 80% of manual effort.
   - Flower App with Canavas Power Apps
 
