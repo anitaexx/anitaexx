@@ -18,8 +18,11 @@ Reviewing my profile from my resume or LinkedIn ?
   - Utility Company Analysis – Extracted KPIs: TDU Reimbursement %, Refund %, Bad Debt %, etc.
   - Loan and Investment Company Analysis (Strategy and Digital Transformation) – Extracted KPIs: Disbursement Volume, Default Rate (Write-off) %, Fraud %, etc.
   
+- **📊 Microsoft Excel (Advanced Analytics)**
+  - Opeartions Analytics Project demonstrating :
+
 - **📊 Microsoft Excel (Advanced Analytics & Automation)**
-  - Opeartions Analytics Project demonstrating end-to-end Excel expertise:
+  - Project demonstrating end-to-end Excel expertise:
       - Advanced Formulas (VLOOKUP, INDEX/MATCH)
       - PivotTables
       - Power Query
@@ -33,7 +36,8 @@ Reviewing my profile from my resume or LinkedIn ?
     - Includes: Data exploration, data cleaning and feature engineering
         
 - **⚙️ Workflow Automation**
-  - Zapier Automation : 
+  - Zapier : Built an execution system powered by Open AI, that transforms messy inputs into structured plans, tasks, and priorities in Notion
+  - Make : Built an operations system that classifies issues with Open AI, tracks execution in Airtable, and sends intelligent follow-ups on overdue work with Gmail.
   - Power Automate solution for a repetitive Clinical Investigation process, eliminating 80% of manual effort.
   - Flower App with Canavas Power Apps
 
