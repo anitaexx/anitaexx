@@ -19,7 +19,7 @@ Reviewing my profile from my resume or LinkedIn ?
   - Loan and Investment Company Analysis (Strategy and Digital Transformation) – Extracted KPIs: Disbursement Volume, Default Rate (Write-off) %, Fraud %, etc.
   
 - **📊 Microsoft Excel (Advanced Analytics)**
-  - Laser Technology Company, Service & Operational Analysis - Extracted KPIs : Repeat Failure Rate %, Revenue By Sales Type, 
+  - Laser Technology Company, Service & Operational Analysis - Extracted KPIs : Repeat Failure Rate %, Revenue By Sales Type, Call Volume Per Rep, etc.
 
 - **📊 Microsoft Excel (Advanced Analytics & Automation)**
   - Project demonstrating end-to-end Excel expertise:
