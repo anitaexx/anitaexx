@@ -20,12 +20,15 @@ Reviewing my profile from my resume or LinkedIn ?
   
 - **📊 Microsoft Excel (Advanced Analytics)**
   - Laser Technology Company, Service & Operational Analysis - Extracted KPIs : Repeat Failure Rate %, Revenue By Sales Type, Call Volume Per Rep, etc.
+      - PivotTables
+      - Power Query
+      - Data modeling, Dashboards
+      - Financial analysis
 
 - **📊 Google Sheets (Advanced Analytics & Automation)**
   - Project demonstrating end-to-end Excel expertise:
-      - Advanced Formulas (VLOOKUP, INDEX/MATCH)
+      - Advanced Formulas (VLOOKUP, INDEX/MATCH, IF)
       - PivotTables
-      - Power Query
       - Data modeling, Dashboards
       - Financial analysis
       - Data validation
